@@ -56,5 +56,5 @@
           with:
             app-name: 'enroutelaravel'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_cecb40b1577848a89b366de062f94e7f }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_a1e5abac8ef942bb9cf12b635b6030d6 }}
             package: .
